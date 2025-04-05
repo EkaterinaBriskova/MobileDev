@@ -10,3 +10,5 @@
 
 ### Практика 3
   [Lesson3.1](https://github.com/EkaterinaBriskova/Lesson3)
+
+  [Lesson3.2](https://github.com/EkaterinaBriskova/MireaProject)
