@@ -23,3 +23,11 @@
 ### Практика 5
 
   [Lesson5](https://github.com/EkaterinaBriskova/Lesson5)
+
+### Практика 6
+
+[Lesson6](https://github.com/EkaterinaBriskova/Lesson6)
+
+### Практика 7
+
+[Lesson7](https://github.com/EkaterinaBriskova/Lesson7)
